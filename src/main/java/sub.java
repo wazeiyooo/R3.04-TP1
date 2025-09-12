@@ -1,5 +1,5 @@
 package com.example;
-public class Sub {
+public class sub {
     public int sub(int a, int b) {
         return a - b;
     }
